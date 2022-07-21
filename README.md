@@ -5,7 +5,7 @@ Crear un tablero en tiempo real usando web socket
 ## Despliegue Heroku 
 
 
-[![Heroku]](https://interactiveboardrealtime.herokuapp.com/)
+![Heroku](https://interactiveboardrealtime.herokuapp.com/)
 
 
 ## Ejecutando
