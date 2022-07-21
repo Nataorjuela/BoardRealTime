@@ -1,12 +1,10 @@
 # Interactive Board Real Time
-Crear un tablero en tiempo real usando web socket
 
+Crear un tablero en tiempo real usando web socket
 
 ## Despliegue Heroku 
 
-
-![Heroku](https://interactiveboardrealtime.herokuapp.com/)
-
+[![Heroku](https://www.herokucdn.com/deploy/button.png)](https://interactiveboardrealtime.herokuapp.com/)
 
 ## Ejecutando
 
@@ -17,9 +15,7 @@ Se abre dos pestañas de heroku. Se dibujará y se verá en real time
 
 ## Autor 
 
-
-* **Natalia Orjuela** 
-
+**Natalia Orjuela** 
 
 ## Licencia 📌
 
